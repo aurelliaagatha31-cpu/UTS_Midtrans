@@ -15,6 +15,10 @@ Project Laravel dengan integrasi pembayaran Midtrans (Sandbox)
 4. php artisan migrate
 5. php artisan serve
 
+- php artisan serve
+- ngrok http 8000
+- URL Forwarding: https://dice-mossy-national.ngrok-free.dev/api/midtrans-callback
+
 ### Pembayaran Berhasil
 <img width="1365" height="721" alt="image" src="https://github.com/user-attachments/assets/c59aba47-ccb0-431b-b648-3ec1f2736e93" />
 
